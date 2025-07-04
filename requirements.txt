@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+youtube-transcript-api
+sentence-transformers
+faiss-cpu
+google-cloud-aiplatform
