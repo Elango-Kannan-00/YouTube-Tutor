@@ -1,6 +1,7 @@
-fastapi
-uvicorn
+streamlit
 youtube-transcript-api
+transformers
 sentence-transformers
 faiss-cpu
-google-cloud-aiplatform
+numpy
+torch
