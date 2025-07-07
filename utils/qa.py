@@ -1,6 +1,7 @@
 from transformers import pipeline
 
-qa_pipeline = pipeline("question-answering", model="deepset/roberta-base-squad2")
+# ✅ SSL-friendly, CPU-efficient model
+qa_pipeline = pipeline("question-answering", model="distilbert-base-cased-distilled-squad")
 
 def answer_question(question, index, sentences, embedding_model):
     question_embedding = embedding_model.encode([question])
