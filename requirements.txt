@@ -1,7 +1,7 @@
 streamlit
-youtube-transcript-api
 transformers
 sentence-transformers
 faiss-cpu
-numpy
+youtube-transcript-api
 torch
+sentencepiece
