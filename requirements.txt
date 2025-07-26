@@ -1,7 +1,6 @@
 streamlit
-transformers
 sentence-transformers
-faiss-cpu
 youtube-transcript-api
-torch
-sentencepiece
+faiss-cpu
+python-dotenv
+google-generativeai
